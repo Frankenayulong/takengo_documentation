@@ -15,6 +15,9 @@ Created By
 127.0.0.1 takengo.dev
 127.0.0.1 api.takengo.dev
 127.0.0.1 admin.takengo.dev
+52.65.96.152 takengo.io
+52.65.96.152 api.takengo.io
+52.65.96.152 admin.takengo.io
 ```
 #### Add this on your xampp vhosts (`C:\xampp\apache\conf\extra\httpd-vhosts.conf`)
 ```
