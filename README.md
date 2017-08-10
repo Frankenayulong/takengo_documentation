@@ -20,6 +20,7 @@ Created By
 52.65.96.152 admin.takengo.io
 ```
 #### Add this on your xampp vhosts (`C:\xampp\apache\conf\extra\httpd-vhosts.conf`)
+##### NOTE: You need to restart the xampp after applying these changes
 ```
 <VirtualHost takengo.dev:80>
   DocumentRoot "C:\xampp\htdocs\takengo_frontend\public"
