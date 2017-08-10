@@ -44,7 +44,7 @@ Created By
   </Directory>
 </VirtualHost>
 
-<VirtualHost api.menudriven.dev:80>
+<VirtualHost api.takengo.dev:80>
   DocumentRoot "C:\xampp\htdocs\takengo_api\public"
   ServerAdmin api.takengo.dev
   <Directory "C:\xampp\htdocs\takengo_api">
