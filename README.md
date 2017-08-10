@@ -11,6 +11,7 @@ Created By
 ## Local Machine Configuration
 
 #### Add this on your hosts file (`C:/Windows/System32/drivers/etc/hosts`)
+##### NOTE: Open with Notepad or other preferred text editor 
 ```
 127.0.0.1 takengo.dev
 127.0.0.1 api.takengo.dev
@@ -20,6 +21,7 @@ Created By
 52.65.96.152 admin.takengo.io
 ```
 #### Add this on your xampp vhosts (`C:\xampp\apache\conf\extra\httpd-vhosts.conf`)
+##### NOTE: Open with Notepad or other preferred text editor
 ##### NOTE: You need to restart the xampp after applying these changes
 ```
 <VirtualHost takengo.dev:80>
